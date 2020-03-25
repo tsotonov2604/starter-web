@@ -1,5 +1,5 @@
 # Starter Web Project 
-This is a simple website project. Adding a line for rebasing. 
+This is a simple website project. Adding a line for rebasin, then more changes from my feature branch.  
 ## Introduction 
 This is an intro 
 ## Purpose 
