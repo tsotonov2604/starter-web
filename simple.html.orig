@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+	Copyright 2014 Git. Training 
+--->
+<head>
+<<<<<<< HEAD
+	<title>A very respectful web</title>
+=======
+	<title>A great web</title>
+>>>>>>> realwork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			Im not sure 
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2020</p>
+=======
+			Some interesting stuff
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Git training 2014</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
